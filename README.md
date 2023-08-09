@@ -1,6 +1,6 @@
 
 # Template Bot
-A discord.py template bot for anyone to use. It was created to stop myself from copy and pasting code from other bots to start a new one.
+A discord.py template bot for anyone to use. It was created to stop me from copying/pasting code from my existing bots to start a new one.
 
 
 ## Contributing
